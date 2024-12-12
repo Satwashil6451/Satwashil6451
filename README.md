@@ -33,7 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-<br><br>
+<br><be>
+## **Wanna know more about me?** 
+**Send me an email**: khotsatwashil@gmail.com
+
+<a href="https://jiganesh.sayout.net/">
+	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
+</a>
+
 
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 
