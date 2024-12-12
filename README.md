@@ -33,4 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+<br><br>
+
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
+
+
+
 ###
