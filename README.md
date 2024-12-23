@@ -1,11 +1,12 @@
-<h2 align="left">Hi 👋! My name is Satwashil...</h2>
+<h2 align="left">Hi 👋! I'm Satwashil, a passionate developer!</h2>
 
 ###
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-###
+### 
 
+#### Connect with me:
 <div align="left">
   <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -27,9 +28,9 @@
   </a>
 </div>
 
+### 
 
-###
-
+#### 🚀 Technologies I use:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -46,14 +47,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-<br><be>
-## **Wanna know more about me?** 
-**Send me an email**: khotsatwashil@gmail.com
+---
 
+### 📧 Wanna know more about me? 
+**Send me an email**: [khotsatwashil@gmail.com](mailto:khotsatwashil@gmail.com)
 
+---
 
+### 🕹️ Fun Time:
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 
+---
 
+### 📊 GitHub Stats & Contributions:
 
-###
+#### 🏆 GitHub Stats:
+![Satwashil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satwashil6451&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+#### 🌍 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satwashil6451&layout=compact&theme=radical)
+
+#### 📈 Contributions Graph:
+![Satwashil's Contributions](https://github-readme-stats.vercel.app/api?username=Satwashil6451&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
