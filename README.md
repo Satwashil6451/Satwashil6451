@@ -48,10 +48,8 @@
 </div>
 
 ---
-
 ### 📧 Wanna know more about me? 
 **Send me an email**: [khotsatwashil@gmail.com](mailto:khotsatwashil@gmail.com)
-
 ---
 
 ### 🕹️ Fun Time:
