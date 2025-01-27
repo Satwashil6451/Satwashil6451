@@ -74,6 +74,6 @@
 
 ---
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=sarvdnya2004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Satwashil6451&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
