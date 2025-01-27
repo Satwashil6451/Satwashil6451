@@ -73,6 +73,14 @@
 ![Satwashil's Contributions](https://github-readme-stats.vercel.app/api?username=Satwashil6451&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
+
+<div align =center>
+
+[![Jiganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satwashil6451&custom_title=Satwashil's%20Activity&hide_border=true&theme=react-dark)](https://github.com/Satwashil6451/github-readme-activity-graph)
+
+</div>
+
+---
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Satwashil6451&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
