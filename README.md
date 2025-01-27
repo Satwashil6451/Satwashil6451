@@ -73,3 +73,5 @@
 ![Satwashil's Contributions](https://github-readme-stats.vercel.app/api?username=Satwashil6451&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sarvdnya2004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
