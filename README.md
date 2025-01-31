@@ -5,9 +5,7 @@
 </h1>
 
 ###
-
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
 ### 
 
 #### Connect with me:
@@ -31,7 +29,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
 ### 
 
 #### 🚀 Technologies I use:
